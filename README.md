@@ -4,7 +4,7 @@ Tercera practica integradora sobre ecommerce para el curso de Backend Developmen
 
 ## Installation
 
-Use el comando de instalación de [npm] (https://docs.npmjs.com/cli/v8/commands/npm-install) para instalar los módulos listados en la dependencia package.json. 
+Use el comando de instalación de [npm](https://docs.npmjs.com/cli/v8/commands/npm-install) para instalar los módulos listados en la dependencia package.json. 
 
 ```bash
 npm install
